@@ -31,6 +31,8 @@
 https://github.com/TheFoodanese/ReadMeGenerator/assets/152094029/18fb511b-10be-4ece-b4c6-56908f184558
 
 
+### Generated README
+
 <img width="912" alt="TheFoodaneseReadMeGenerator EdX Front-End Web Development Bootcamp Module 1 2024-03-26 at 8 39 42 pm" src="https://github.com/TheFoodanese/ReadMeGenerator/assets/152094029/2cd34b06-8fec-4aa3-a74e-f921b97975ea">
 
 
